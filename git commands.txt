@@ -1,0 +1,21 @@
+Save your work in buffer area - stashing 
+
+git stash - temp area 
+
+moving work from current directory to temp area
+git stash apply - getting it back
+git stash pop
+git stash clear
+
+p1
+AB
+C
+add  -> branch
+commit
+
+
+Master - pull
+
+pull - branch
+
+push - branch 
